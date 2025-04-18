@@ -1,2 +1,2 @@
 # Weather-App
- My first Javascript project
+Basic weather checking webpage for your city!
