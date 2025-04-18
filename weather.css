@@ -98,3 +98,21 @@ body{
 .column p{
     font-size: 21px;
 }
+.weather-card{
+    display: none;
+}
+
+.errormessage{
+    color: white;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    display: none;
+}
+.normalmessage{
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    display: flex;
+}
